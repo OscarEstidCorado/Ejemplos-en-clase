@@ -1,0 +1,7 @@
+C:\Users\OscarEstid\source\repos\Ejemplo1enclase\Ejemplo1enclase\bin\Debug\Ejemplo1enclase.exe.config
+C:\Users\OscarEstid\source\repos\Ejemplo1enclase\Ejemplo1enclase\bin\Debug\Ejemplo1enclase.exe
+C:\Users\OscarEstid\source\repos\Ejemplo1enclase\Ejemplo1enclase\bin\Debug\Ejemplo1enclase.pdb
+C:\Users\OscarEstid\source\repos\Ejemplo1enclase\Ejemplo1enclase\obj\Debug\Ejemplo1enclase.csprojAssemblyReference.cache
+C:\Users\OscarEstid\source\repos\Ejemplo1enclase\Ejemplo1enclase\obj\Debug\Ejemplo1enclase.csproj.CoreCompileInputs.cache
+C:\Users\OscarEstid\source\repos\Ejemplo1enclase\Ejemplo1enclase\obj\Debug\Ejemplo1enclase.exe
+C:\Users\OscarEstid\source\repos\Ejemplo1enclase\Ejemplo1enclase\obj\Debug\Ejemplo1enclase.pdb
